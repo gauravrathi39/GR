@@ -1,7 +1,7 @@
 {
   "compilerOptions": {
     "target": "ES2022",
-    "ignoreDeprecations": "5023",
+    "ignoreDeprecations": "5.0",
     "module": "CommonJS",
     "moduleResolution": "Node",
     "lib": ["ES2022"],
